@@ -40,3 +40,4 @@ You can run the tools effortlessly by double-clicking the provided batch files:
 - `scripts/`: Contains the Python source code.
 - `input_...`: Drop your source files here.
 - `output_...`: Collect your converted files here.
+#end
